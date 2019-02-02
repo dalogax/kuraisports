@@ -128,21 +128,12 @@ hr {
 }
 /* Home Style */
 header {
-	background: url(../img/kurai/gansada_back.jpg) no-repeat bottom center;
+	background: url(../img/kurai/hierro.jpg) no-repeat bottom center;
 	background-size: cover;
 	color: #cfcfcf;
 	position: relative;
 	height: 100%;
 }
-
-.place {
-	background-color: #f61a5f;
-}
-
-.time {
-	background-color: rgb(49, 49, 49);
-}
-
 header p {
 	color: rgb(223, 223, 223);
 	font-size: 18px;
@@ -301,7 +292,6 @@ ol.type li a:hover {
 	-moz-transition-property: -moz-transform, opacity;
 	transition-property: transform, opacity;
 }
-
 .portfolio-item {
 	margin-bottom: 30px;
 }
@@ -310,7 +300,6 @@ ol.type li a:hover {
 	overflow: hidden;
 	position: relative;
 }
-
 .hover-bg .hover-text {
 	position: absolute;
 	text-align: center;
