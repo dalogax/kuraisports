@@ -306,7 +306,7 @@ ol.type li a:hover {
 	margin-bottom: 30px;
 }
 .portfolio-item .hover-bg {
-	height: 400px;
+	height: 200px;
 	overflow: hidden;
 	position: relative;
 }
